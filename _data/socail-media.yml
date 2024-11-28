@@ -1,1 +1,23 @@
+email:
+  id: 'cbyanjankar99@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
 
+scholar:
+  id: 'Chirag Byanjankar'
+  href: 'https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=knPdFO0AAAAJ'
+  title: 'Scholar'
+  fa-icon: 'fa-google-scholar'
+
+linkedin:
+  id: 'Chirag Byanjankar'
+  href: 'https://www.linkedin.com/chirag-byanjankar'
+  title: 'LinkIn'
+  fa-icon: 'fa-linkedin-square'
+
+github:
+  id: 'Chirag Byanjankar'
+  href: 'https://github.com/chiragbyanjankar/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
