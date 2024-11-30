@@ -3,32 +3,14 @@ layout: default
 ---
 
 <div align="justify">
-Currently working at Qualcomm (San Diego) as a senior engineer for camera system team. I completed my PhD in computer science with focus on computer vision and deep learning from the <a href="https://www.crcv.ucf.edu/">Center for Research in Computer Vision (CRCV)</a> lab, University of Central Florida (UCF), where I worked with <a href="https://www.crcv.ucf.edu/person/rawat/">Dr. Yogesh Singh Rawat</a>. My research interests include fundamentals of efficient deep learning applications, including large scale training, image/video generation and segmentation, and sparse annotation training for large datasets. I have previously worked on temporally consistent video segmentation, low cost annotation method, real-time video understanding, driving assistance systems, and robotic manipulation using vision, bringing concepts to practical use.
+I am a graduate in masters in mechanical and energy engineering from University of North Texas with focus on using Vapor Phase Separator (VPS) for CO2 removal in spacecraft in deep space transit. I have worked as a Research Assistant in <a href="https://engineering.unt.edu/me/research/labs/tml/index.html">Thermal Management Lab</a> under the supervision of <a href="https://engineering.unt.edu/people/huseyin-bostanci.html">Prof. Huseyin Bostanci </a>. My research interest includes using computer vision and machine learning algorithm to be used in pragmatic approach, image/ video segmentation for large datasets. 
 <br>
-Prior to starting PhD, I was working at Vision and Graphics Lab at Asian Institute of Technology, Thailand. My primary work was on visual SLAM, tracking, and recognition of vehicles.
+During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="https://engineering.unt.edu/people/herman-shen.html"> Dr. Herman Shen</a> for AI based in-situ process monitoring and quality control for additive manufacturing. 
 </div>
 
 <br>
 
-## NEWS
-
-<div align="justify">
-<ul>
-<li>We have 1 accepted paper at <b>AAAI 2024!</b>.</li>
-<li>We have 1 accepted paper at <b>CVPR 2023!</b> Project details <a href="https://sites.google.com/view/activesparselabeling/home/claus">here</a>.</li>
-<li>I will join <i>Qualcomm</i> as Senior Engineer for camera system team this summer (2023)</li>
-<li>We have 1 accepted paper at <b>NeurIPS 2022!</b> Check project details <a href="https://sites.google.com/view/activesparselabeling/home/asl">here</a>.</li>
-<li>Our patent for real-time spatio-temporal activity detection from untrimmed video (US Patent 11468676) has been granted!</li>
-<li>We are organizing <a href="https://rosecvpr22.github.io/">Robustness in Sequential Data (ROSE) workshop</a> in CVPR 2022. </li>
-<li>We are hosting the <a href="https://tinyactions-cvpr22.github.io/">Tiny Actions Challenge</a> as part of ActivityNet workshop at CVPR 2022.</li>
-<li>I will be doing an internship at <i>Qualcomm</i> this summer (2022)</li>
-<li>We have 1 accepted paper at <b>BMVC 2021</b>! for human action generation. Check project page <a href="https://www.crcv.ucf.edu/research/projects/larnet-latent-action-representation-for-human-action-synthesis/">here</a>.</li>
-<li>We have 1 accepted paper at <b>WACV 2021</b>!</li> 
-<li>I will be doing an internship at <i>SRI International</i> this summer (2020)</li>
-</ul>
-</div>
-
-## Publications
+## Lead Author Publications
 
 <div align="justify">
 <ul>
