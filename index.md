@@ -10,56 +10,166 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
 
 <br>
 
-## Lead Author Publications
-
-<div align="justify">
-<ul>
-    <li><b><i>Semi-supervised Active Learning for Video Action Detection</i></b><br>
-    Ayush Singh, <b>Aayush Jung Rana</b>, Akash Kumar, Shruti Vyas, Yogesh Singh Rawat<br>
-    AAAI Conference on Artificial Intelligence (<b>AAAI</b>) 2024<br>
-	<a href="https://arxiv.org/pdf/2312.07169.pdf">Paper</a> | <a href="https://github.com/AKASH2907/semi_sup_active_learning">Github</a> </li>
-    
-	<li style="margin-top:1em"><b><i>Hybrid Active Learning via Deep Clustering for Video Action Detection</i></b><br>
-    <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
-    IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2023<br>
-	<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Rana_Hybrid_Active_Learning_via_Deep_Clustering_for_Video_Action_Detection_CVPR_2023_paper.pdf">Paper</a> | <a href="https://github.com/aayushjr/HybridCLAUS">Github</a> | <a href="https://cvpr2023.thecvf.com/virtual/2023/poster/21501">Resources</a> | <a href="https://sites.google.com/view/activesparselabeling/home/claus">Project</a></li>
-    
-    <li style="margin-top:1em"><b><i>Are all Frames Equal? Active Sparse Learning for Video Action Detection</i></b><br>
-    <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
-    Advances in Neural Information Processing Systems (<b>NeurIPS</b>) 2022<br>
-    <a href="https://openreview.net/pdf?id=907ZdmPmmH_">Paper</a> | <a href="https://github.com/aayushjr/ASL-video">Github</a> | <a href="https://www.crcv.ucf.edu/research/projects/active-sparse-labeling-for-video-action-detection/">Resources</a> | <a href="https://sites.google.com/view/activesparselabeling/home/asl">Project</a></li>
-    
-    <li style="margin-top:1em"><b><i>LARNet: Latent Action Representation for Human Action Synthesis</i></b><br>
-    Naman Biyani, <b>Aayush Jung Rana</b>, Shruti Vyas, Yogesh Singh Rawat<br>
-    British Machine Vision Conference (<b>BMVC</b>) 2021<br>
-    <a href="https://www.bmvc2021-virtualconference.com/assets/papers/0434.pdf">Paper</a> | <a href="https://github.com/aayushjr/larnet">Github</a> | <a href="https://www.crcv.ucf.edu/wp-content/uploads/2018/11/LARNet_presentation_video.mp4">Presentation</a> | <a href="https://www.crcv.ucf.edu/research/projects/larnet-latent-action-representation-for-human-action-synthesis/">Project</a></li>
-    
-	<li style="margin-top:1em"><b><i>We don’t Need Thousand Proposals: Single Shot Actor-Action Detection in Videos</i></b><br>
-    <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
-    IEEE/CVF Winter Conference on Applications of Computer Vision (<b>WACV</b>) 2021<br>
-    <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Rana_We_Dont_Need_Thousand_Proposals_Single_Shot_Actor-Action_Detection_in_WACV_2021_paper.pdf">Paper</a> | <a href="https://github.com/aayushjr/ssa2d">Github</a> | <a href="https://www.crcv.ucf.edu/wp-content/uploads/2020/12/Projects_Single-shot-actor-action-detection-in-videos.mp4">Presentation</a> | <a href="https://www.crcv.ucf.edu/research/projects/we-dont-need-thousand-proposals-single-shot-actor-action-detection-in-videos/">Project</a></li>
-    
-    <li style="margin-top:1em"><b><i>Gabriella: An Online System for Real-Time Activity Detection in Untrimmed Security Videos</i></b><br>
-    Mamshad Rizve, Ugur Demir, Praveen Tirupattur, <b>Aayush Jung Rana</b>, Kevin Duarte, Ishan Dave, Yogesh Singh Rawat, and Mubarak Shah<br>
-    IEEE International Conference on Pattern Recognition (<b>ICPR</b>) 2020 (<b>Best Paper Award</b>)<br>
-    <a href="https://arxiv.org/pdf/2004.11475.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=O64331jZczo">Presentation</a> | <a href="https://www.crcv.ucf.edu/research/projects/gabriella-an-online-system-for-real-time-activity-detection-in-untrimmed-security-videos/">Project</a></li>
-    
-    <li style="margin-top:1em"><b><i>SSA2D: Single Shot Actor-Action Detection in Videos</i></b><br>
-    <b>Aayush Jung Rana</b>, Yogesh Singh Rawat<br>
-    Student Abstract at the Thirty-Fifth <b>AAAI</b> Conference, 2021<br>
-    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/17934/17739">Paper</a></li>
-</ul>
-</div>
-
-## Patents
-
-<div align="justify">
-<ul>
-	<li>Methods of Real-Time Spatio-Temporal Activity Detection and Categorization from Untrimmed Video Segments. United States Patent No. 11468676 B2.<br>
-	<a href="https://patentimages.storage.googleapis.com/1a/1e/ec/af681095ca1677/US20220222940A1.pdf">Patent</a></li>
-	
-	<li style="margin-top:1em">Active Sparse Labeling System and Method. United States Patent Application No. 63/514,482 (Filed)</li>
-	
-</ul>
-</div>
-
+ <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tr style="padding:0px">
+      <td style="padding:0px">
+      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Lead Author Publications</h2>
+              <!-- <p>
+                My research interests lie in <strong>Reinforcement Learning, Robot Learning and Control theory</strong>.
+              </p> -->
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/lcp.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies</h3>
+              <br>
+              Zixuan Chen*, <strong>Xialin He*</strong>, Yen-Jen Wang*, Qiayuan Liao, Yanjie Ze, Zhongyu Li, S. Shankar Sastry, Jiajun Wu, Koushil Sreenath, Saurabh Gupta, Xue Bin Peng
+              <br>
+              <!-- <em>arxiv2024</em>, 2024 -->
+              <em>arxiv2024</em>
+              <br>  
+              <a href="https://arxiv.org/abs/2410.11825">arxiv</a> / 
+              <a href="https://www.youtube.com/watch?v=4mJCFZ--0sc">video</a>  
+              <a href="https://github.com/zixuan417/smooth-humanoid-locomotion">code</a> /     
+              <a href="https://lipschitz-constrained-policy.github.io/">website</a> /   
+              <p></p>
+              <p>We introduce Lipschitz-Constrained Policies (LCP), a method for achieving smooth locomotion in legged robots by enforcing a Lipschitz constraint on the policy. LCP eliminates the need for non-differentiable smoothing techniques, offering a simpler and robust solution applicable across diverse humanoid robots.</p>
+            </td>
+	  </tr>
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/Preview-OmniH2O-GIF2M.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning</h3>
+              <br>
+              Tairan He*, Zhengyi Luo*, <strong>Xialin He</strong>*, Wenli Xiao, Chong Zhang, Weinan Zhang, Kris Kitani, Changliu Liu, Guanya Shi
+              <br>
+              <!-- <em>CoRL2024</em>, 2024 -->
+              <em>CoRL2024</em>
+              <br>              
+              <a href="https://arxiv.org/abs/2406.08858">arxiv</a> /           
+              <a href="https://www.youtube.com/watch?v=ofgxZHv0GMk">video</a> /         
+              <a href="https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io">dataset</a> /       
+              <a href="https://omni.human2humanoid.com/">website</a> /    
+              <p></p>
+              <p>We present OmniH2O (Omni Human-to-Humanoid), a learning-based system for whole-body humanoid teleoperation and autonomy. Using kinematic pose as a universal control interface, OmniH2O enables various ways for a human to control a full-sized humanoid with dexterous hands and also enables full autonomy by learning from teleoperated demonstrations or integrating with frontier models such as GPT-4o</p>
+            </td>
+          </tr> 
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/legmani.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>Visual Manipulation with Legs</h3>
+              <br>
+              <strong>Xialin He</strong>*, Chengjing Yuan*, Wenxuan Zhou, Ruihan Yang, David Held, Xiaolong Wang
+              <br>
+              <!-- <em>CoRL2024</em>, 2023 -->
+              <em>CoRL2024</em>
+              <br>  
+              <a href="https://arxiv.org/abs/2410.11345">arxiv</a> /
+              <a href="https://www.youtube.com/watch?v=Sl7xuA4GEpA">video</a> /
+              <a href="https://legged-manipulation.github.io/">website</a> / 
+              <p></p>
+              <p>We propose a system that enables quadruped to manipulate objects with legs. We use reinforcement learning to train a policy to interact with the object based on point cloud observations, which demonstrates advanced manipulation skills with legs that has not been shown in previous work.</p>
+            </td>
+          </tr> 
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Other Publications</h2>
+		<!-- <p>
+                My research interests lie in <strong>Reinforcement Learning, Robot Learning and Control theory</strong>.
+              </p> -->
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/idp3.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies</h3>
+              <br>
+              Yanjie Ze, Zixuan Chen, Wenhao Wang, Tianyi Chen, <strong>Xialin He</strong>, Ying Yuan, Xue Bin Peng, Jiajun Wu
+              <br>
+              <!-- <em>arxiv2024</em>, 2024 -->
+              <em>arxiv2024</em>
+              <br>       
+              <a href="https://arxiv.org/abs/2410.10803">arxiv</a> /
+              <a href="https://www.youtube.com/watch?v=6H2MkMetmFk">video</a> /
+              <a href="https://github.com/YanjieZe/Improved-3D-Diffusion-Policy">code</a> /
+              <a href="https://humanoid-manipulation.github.io/">website</a> / 
+              <p></p>
+              <p>We developed the Improved 3D Diffusion Policy (iDP3), a 3D visuomotor policy that enables humanoid robots to perform autonomous tasks in varied real-world settings. Unlike traditional models, iDP3 operates without the need for camera calibration or point-cloud segmentation by utilizing egocentric 3D visual representations. This approach allows for effective performance using only lab-collected data.</p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/TERT.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>sim-to-real transfer for quadrupedal locomotion via terrain transformer</h3>
+              <br>
+              Hang lai, Weinan Zhang, <strong>Xialin He</strong>, Chen Yu, Zheng Tian, Yong Yu, Jun Wang
+              <br>
+              <!-- <em>ICRA2023</em>, 2023 -->
+              <em>ICRA2023</em>
+              <br> 
+              <a href="https://arxiv.org/abs/2212.07740">arxiv</a> /  
+              <a href="https://www.dropbox.com/s/hima06k5i4k0mty/TERT.zip?dl=0">code</a> /       
+              <a href="https://terrain-transformer.github.io/">website</a> /        
+              <p></p>
+              <p>we propose Terrain Transformer (TERT), a simple yet effective method to leverage Transformer for quadrupedal locomotion over multiple terrains, including a two-stage training framework to incorporate Transformer with privileged learning.</p>
+            </td>
+          </tr>   
+        </table>
+        <br>
+        <br>
+        <br>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Education</h2>
+            </td>
+          </tr>
+        </table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">    
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
+              <img src="/tn/images/UIUC.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3 style="margin-right: 5px;">University of Illinois Urbana-Champaign</h3> <h3 style="font-weight: normal;">Illinois, USA</h3>
+              <br>
+              <br>
+              Ph.D. student in Computer Science, Aug 2024 - Current
+              <!-- <br>
+               -->
+            </td>
+          </tr>  
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
+              <img src="/tn/images/SJTU.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3 style="margin-right: 5px;">Shanghai Jiao Tong University</h3> <h3 style="font-weight: normal;">Shanghai, China</h3>
+              <br>
+              <br>
+              B.S. in Computer Science(ACM Honors Class), Sep 2020 - Jun 2024
+              <!-- <br>
+               -->
+            </td>
+          </tr>
+	</table>
