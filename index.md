@@ -17,9 +17,6 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Lead Author Publications</h2>
-              <!-- <p>
-                My research interests lie in <strong>Reinforcement Learning, Robot Learning and Control theory</strong>.
-              </p> -->
             </td>
           </tr>
         </table>
@@ -170,4 +167,4 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               B.S. in Computer Science(ACM Honors Class), Sep 2020 - Jun 2024
             </td>
           </tr>
-	</table>
+</table>
