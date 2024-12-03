@@ -168,8 +168,6 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <br>
               <br>
               B.S. in Computer Science(ACM Honors Class), Sep 2020 - Jun 2024
-              <!-- <br>
-               -->
             </td>
           </tr>
 	</table>
