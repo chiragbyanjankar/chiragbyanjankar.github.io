@@ -145,7 +145,7 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">    
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
-              <img src="/assets/img/unt.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
+              <img src="/assets/img/unt-logo.png" alt="unt logo" style="width:auto; height:auto; max-width:70%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">University of North Texas</h3> <h3 style="font-weight: normal;">Texas, USA</h3>
@@ -158,7 +158,7 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
           </tr>  
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
-              <img src="/assets/img/ku.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
+              <img src="/assets/img/ku.png" alt="ku logo" style="width:auto; height:auto; max-width:70%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">kathmandu University</h3> <h3 style="font-weight: normal;">Kavre, Nepal</h3>
