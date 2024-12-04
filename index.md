@@ -26,13 +26,13 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>“Design, Development, and Initial Testing of Microgravity Vortex Phase Separator-Based Spacecraft Cabin Air Humidity Control Subsystem for CO2 Removal System</h3>
+              <h3>Design, Development, and Initial Testing of Microgravity Vortex Phase Separator-Based Spacecraft Cabin Air Humidity Control Subsystem for CO2 Removal System</h3>
               <br>
               <strong>Byanjankar, C.*</strong>, Bostanci, H., Kurwitz, C., Belancik, G.
               <br>
-              <em>arxiv2024</em>
+              <em>ICES 2024</em>
               <br>  
-              <a href="https://arxiv.org/abs/2410.11825">Paper</a>
+              <a href="https://hdl.handle.net/2346/99015">Paper</a>
             </td>
 	  </tr>
           <tr>
@@ -40,19 +40,13 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <img src="/tn/images/Preview-OmniH2O-GIF2M.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning</h3>
+              <h3>Preliminary Investigation of Vortex Phase Separator-Based Spacecraft Cabin Air Dehumidification Subsystem for CO2 Removal</h3>
               <br>
-              Tairan He*, Zhengyi Luo*, <strong>Xialin He</strong>*, Wenli Xiao, Chong Zhang, Weinan Zhang, Kris Kitani, Changliu Liu, Guanya Shi
+              <strong>Byanjankar, C.*</strong>, Sarvadi, A.*, Bostanci, H., Kurwitz, C., Belancik, G.
               <br>
-              <!-- <em>CoRL2024</em>, 2024 -->
-              <em>CoRL2024</em>
+              <em>ICES 2023</em>
               <br>              
-              <a href="https://arxiv.org/abs/2406.08858">arxiv</a> /           
-              <a href="https://www.youtube.com/watch?v=ofgxZHv0GMk">video</a> /         
-              <a href="https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io">dataset</a> /       
-              <a href="https://omni.human2humanoid.com/">website</a> /    
-              <p></p>
-              <p>We present OmniH2O (Omni Human-to-Humanoid), a learning-based system for whole-body humanoid teleoperation and autonomy. Using kinematic pose as a universal control interface, OmniH2O enables various ways for a human to control a full-sized humanoid with dexterous hands and also enables full autonomy by learning from teleoperated demonstrations or integrating with frontier models such as GPT-4o</p>
+              <a href=" https://hdl.handle.net/2346/94771">Paper</a> /               
             </td>
           </tr> 
         </table>
