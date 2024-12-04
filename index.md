@@ -35,6 +35,21 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <a href="https://hdl.handle.net/2346/99015">Paper</a>
             </td>
 	  </tr>
+		<tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/Preview-OmniH2O-GIF2M.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>Vortex Phase Separator-based spacecraft cabin air humidity control subsystem prototype for CO2 removal
+using regenerable ionic liquid desiccant.</h3>
+              <br>
+              <strong>Byanjankar, C.*</strong>, Bostanci, H., Kurwitz, C., Belancik, G.
+              <br>
+              <em>M.S. Thesis 2024</em>
+              <br>              
+              <a href=" https://hdl.handle.net/2346/94771">Paper</a>              
+            </td>
+          </tr> 
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn/images/Preview-OmniH2O-GIF2M.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -46,7 +61,7 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <br>
               <em>ICES 2023</em>
               <br>              
-              <a href=" https://hdl.handle.net/2346/94771">Paper</a> /               
+              <a href=" https://hdl.handle.net/2346/94771">Paper</a>            
             </td>
           </tr> 
         </table>
