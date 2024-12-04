@@ -13,7 +13,7 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
-      <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Lead Author Publications</h2>
