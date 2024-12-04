@@ -145,26 +145,26 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">    
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
-              <img src="/tn/images/UIUC.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
+              <img src="/assets/img/unt.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3 style="margin-right: 5px;">University of Illinois Urbana-Champaign</h3> <h3 style="font-weight: normal;">Illinois, USA</h3>
+              <h3 style="margin-right: 5px;">University of North Texas</h3> <h3 style="font-weight: normal;">Texas, USA</h3>
               <br>
               <br>
-              Ph.D. student in Computer Science, Aug 2024 - Current
+              M.S in Mechanical and Energy Engineering, Aug 2022 - Dec 2024
               <!-- <br>
                -->
             </td>
           </tr>  
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
-              <img src="/tn/images/SJTU.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
+              <img src="/assets/img/ku.png" alt="project image" style="width:auto; height:auto; max-width:70%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3 style="margin-right: 5px;">Shanghai Jiao Tong University</h3> <h3 style="font-weight: normal;">Shanghai, China</h3>
+              <h3 style="margin-right: 5px;">kathmandu University</h3> <h3 style="font-weight: normal;">Kavre, Nepal</h3>
               <br>
               <br>
-              B.S. in Computer Science(ACM Honors Class), Sep 2020 - Jun 2024
+              B.S. in Mechanical and Energy Engineering, Aug 2016 - Dec 2020
             </td>
           </tr>
 </table>
