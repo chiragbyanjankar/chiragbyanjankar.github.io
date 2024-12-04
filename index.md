@@ -72,7 +72,7 @@ using regenerable ionic liquid desiccant.</h3>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn/images/idp3.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/assets/img/Picture3.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Regenerable Liquid Desiccants for High Efficiency Humidity Control in Microgravity</h3>
