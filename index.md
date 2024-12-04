@@ -63,11 +63,15 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
           </tr> 
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Other Publications</h2>
+              <!-- <p>
+                My research interests lie in <strong>Reinforcement Learning, Robot Learning and Control theory</strong>.
+              </p> -->
             </td>
+          </tr>
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
@@ -78,8 +82,10 @@ using regenerable ionic liquid desiccant.</h3>
               <h3>Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies</h3>
               <br>
               Yanjie Ze, Zixuan Chen, Wenhao Wang, Tianyi Chen, <strong>Xialin He</strong>, Ying Yuan, Xue Bin Peng, Jiajun Wu
+              <br>
+              <!-- <em>arxiv2024</em>, 2024 -->
               <em>arxiv2024</em>
-              <br>       
+              <br>
               <a href="https://arxiv.org/abs/2410.10803">arxiv</a> /
               <a href="https://www.youtube.com/watch?v=6H2MkMetmFk">video</a> /
               <a href="https://github.com/YanjieZe/Improved-3D-Diffusion-Policy">code</a> /
@@ -88,7 +94,24 @@ using regenerable ionic liquid desiccant.</h3>
               <p>We developed the Improved 3D Diffusion Policy (iDP3), a 3D visuomotor policy that enables humanoid robots to perform autonomous tasks in varied real-world settings. Unlike traditional models, iDP3 operates without the need for camera calibration or point-cloud segmentation by utilizing egocentric 3D visual representations. This approach allows for effective performance using only lab-collected data.</p>
             </td>
           </tr>
-          </tr>   
+          <tr>
+            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+              <img src="/tn/images/TERT.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+            </td>
+            <td style="padding:2.5%;width:75%;vertical-align:middle">
+              <h3>sim-to-real transfer for quadrupedal locomotion via terrain transformer</h3>
+              <br>
+              Hang lai, Weinan Zhang, <strong>Xialin He</strong>, Chen Yu, Zheng Tian, Yong Yu, Jun Wang
+              <br>
+              <em>ICRA2023</em>
+              <br> 
+              <a href="https://arxiv.org/abs/2212.07740">arxiv</a> /  
+              <a href="https://www.dropbox.com/s/hima06k5i4k0mty/TERT.zip?dl=0">code</a> /
+              <a href="https://terrain-transformer.github.io/">website</a> /
+              <p></p>
+              <p>we propose Terrain Transformer (TERT), a simple yet effective method to leverage Transformer for quadrupedal locomotion over multiple terrains, including a two-stage training framework to incorporate Transformer with privileged learning.</p>
+            </td>
+          </tr>
         </table>
         <br>
         <br>
