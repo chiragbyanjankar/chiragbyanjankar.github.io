@@ -75,19 +75,13 @@ using regenerable ionic liquid desiccant.</h3>
               <img src="/tn/images/idp3.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies</h3>
+              <h3>Regenerable Liquid Desiccants for High Efficiency Humidity Control in Microgravity</h3>
               <br>
-              Yanjie Ze, Zixuan Chen, Wenhao Wang, Tianyi Chen, <strong>Xialin He</strong>, Ying Yuan, Xue Bin Peng, Jiajun Wu
+              Gerardo Castro, Laura Barbe, Martin Vu, Jeffery Asencio, Joshua Joblin, <strong>Chirag Byanjankar</strong>, Alex Sarvadi, Huseyin Bostanci, Cable Kurwitz
               <br>
-              <!-- <em>arxiv2024</em>, 2024 -->
-              <em>arxiv2024</em>
+              <em>X-Hab 2023</em>
               <br>
-              <a href="https://arxiv.org/abs/2410.10803">arxiv</a> /
-              <a href="https://www.youtube.com/watch?v=6H2MkMetmFk">video</a> /
-              <a href="https://github.com/YanjieZe/Improved-3D-Diffusion-Policy">code</a> /
-              <a href="https://humanoid-manipulation.github.io/">website</a> / 
-              <p></p>
-              <p>We developed the Improved 3D Diffusion Policy (iDP3), a 3D visuomotor policy that enables humanoid robots to perform autonomous tasks in varied real-world settings. Unlike traditional models, iDP3 operates without the need for camera calibration or point-cloud segmentation by utilizing egocentric 3D visual representations. This approach allows for effective performance using only lab-collected data.</p>
+              <a href="https://ntrs.nasa.gov/citations/20230009385">Paper</a>
             </td>
           </tr>
         </table>
