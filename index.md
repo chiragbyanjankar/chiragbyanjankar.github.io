@@ -66,9 +66,6 @@ using regenerable ionic liquid desiccant.</h3>
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Other Publications</h2>
-              <!-- <p>
-                My research interests lie in <strong>Reinforcement Learning, Robot Learning and Control theory</strong>.
-              </p> -->
             </td>
           </tr>
         </table>
