@@ -23,22 +23,16 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn/images/lcp.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies</h3>
+              <h3>“Design, Development, and Initial Testing of Microgravity Vortex Phase Separator-Based Spacecraft Cabin Air Humidity Control Subsystem for CO2 Removal System</h3>
               <br>
-              Zixuan Chen*, <strong>Xialin He*</strong>, Yen-Jen Wang*, Qiayuan Liao, Yanjie Ze, Zhongyu Li, S. Shankar Sastry, Jiajun Wu, Koushil Sreenath, Saurabh Gupta, Xue Bin Peng
+              <strong>Byanjankar, C.*</strong>, Bostanci, H., Kurwitz, C., Belancik, G.
               <br>
-              <!-- <em>arxiv2024</em>, 2024 -->
               <em>arxiv2024</em>
               <br>  
-              <a href="https://arxiv.org/abs/2410.11825">arxiv</a> / 
-              <a href="https://www.youtube.com/watch?v=4mJCFZ--0sc">video</a>  
-              <a href="https://github.com/zixuan417/smooth-humanoid-locomotion">code</a> /     
-              <a href="https://lipschitz-constrained-policy.github.io/">website</a> /   
-              <p></p>
-              <p>We introduce Lipschitz-Constrained Policies (LCP), a method for achieving smooth locomotion in legged robots by enforcing a Lipschitz constraint on the policy. LCP eliminates the need for non-differentiable smoothing techniques, offering a simpler and robust solution applicable across diverse humanoid robots.</p>
+              <a href="https://arxiv.org/abs/2410.11825">Paper</a>
             </td>
 	  </tr>
           <tr>
@@ -59,25 +53,6 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <a href="https://omni.human2humanoid.com/">website</a> /    
               <p></p>
               <p>We present OmniH2O (Omni Human-to-Humanoid), a learning-based system for whole-body humanoid teleoperation and autonomy. Using kinematic pose as a universal control interface, OmniH2O enables various ways for a human to control a full-sized humanoid with dexterous hands and also enables full autonomy by learning from teleoperated demonstrations or integrating with frontier models such as GPT-4o</p>
-            </td>
-          </tr> 
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn/images/legmani.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>Visual Manipulation with Legs</h3>
-              <br>
-              <strong>Xialin He</strong>*, Chengjing Yuan*, Wenxuan Zhou, Ruihan Yang, David Held, Xiaolong Wang
-              <br>
-              <!-- <em>CoRL2024</em>, 2023 -->
-              <em>CoRL2024</em>
-              <br>  
-              <a href="https://arxiv.org/abs/2410.11345">arxiv</a> /
-              <a href="https://www.youtube.com/watch?v=Sl7xuA4GEpA">video</a> /
-              <a href="https://legged-manipulation.github.io/">website</a> / 
-              <p></p>
-              <p>We propose a system that enables quadruped to manipulate objects with legs. We use reinforcement learning to train a policy to interact with the object based on point cloud observations, which demonstrates advanced manipulation skills with legs that has not been shown in previous work.</p>
             </td>
           </tr> 
         </table>
