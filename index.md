@@ -62,7 +62,6 @@ using regenerable ionic liquid desiccant.</h3>
               <a href=" https://hdl.handle.net/2346/94771">Paper</a>            
             </td>
           </tr> 
-        </table>
        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
