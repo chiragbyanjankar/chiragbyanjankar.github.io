@@ -7,9 +7,7 @@ I am a graduate in masters in mechanical and energy engineering from University 
 <br>
 During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="https://engineering.unt.edu/people/herman-shen.html"> Dr. Herman Shen</a> for AI based in-situ process monitoring and quality control for additive manufacturing. 
 </div>
-
 <br>
-
  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
