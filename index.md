@@ -50,7 +50,7 @@ using regenerable ionic liquid desiccant.</h3>
           </tr> 
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/assets/img/Picture2.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Preliminary Investigation of Vortex Phase Separator-Based Spacecraft Cabin Air Dehumidification Subsystem for CO2 Removal</h3>
