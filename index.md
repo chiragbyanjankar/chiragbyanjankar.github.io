@@ -35,7 +35,7 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
 	  </tr>
 		<tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn/images/Preview-OmniH2O-GIF2M.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="/assets/img/Picture1.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Vortex Phase Separator-based spacecraft cabin air humidity control subsystem prototype for CO2 removal
@@ -50,7 +50,7 @@ using regenerable ionic liquid desiccant.</h3>
           </tr> 
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn/images/Preview-OmniH2O-GIF2M.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Preliminary Investigation of Vortex Phase Separator-Based Spacecraft Cabin Air Dehumidification Subsystem for CO2 Removal</h3>
@@ -91,24 +91,6 @@ using regenerable ionic liquid desiccant.</h3>
               <a href="https://humanoid-manipulation.github.io/">website</a> / 
               <p></p>
               <p>We developed the Improved 3D Diffusion Policy (iDP3), a 3D visuomotor policy that enables humanoid robots to perform autonomous tasks in varied real-world settings. Unlike traditional models, iDP3 operates without the need for camera calibration or point-cloud segmentation by utilizing egocentric 3D visual representations. This approach allows for effective performance using only lab-collected data.</p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn/images/TERT.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>sim-to-real transfer for quadrupedal locomotion via terrain transformer</h3>
-              <br>
-              Hang lai, Weinan Zhang, <strong>Xialin He</strong>, Chen Yu, Zheng Tian, Yong Yu, Jun Wang
-              <br>
-              <em>ICRA2023</em>
-              <br> 
-              <a href="https://arxiv.org/abs/2212.07740">arxiv</a> /  
-              <a href="https://www.dropbox.com/s/hima06k5i4k0mty/TERT.zip?dl=0">code</a> /
-              <a href="https://terrain-transformer.github.io/">website</a> /
-              <p></p>
-              <p>we propose Terrain Transformer (TERT), a simple yet effective method to leverage Transformer for quadrupedal locomotion over multiple terrains, including a two-stage training framework to incorporate Transformer with privileged learning.</p>
             </td>
           </tr>
         </table>
