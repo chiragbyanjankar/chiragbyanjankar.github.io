@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p, ul, ol, table, pre, dl {
+p, ul, ol, pre, dl {
   margin:0 0 20px;
 }
 
@@ -62,14 +62,6 @@ a:hover small {
   margin:0 auto;
 }
 
-table{
-  border: none;
-
-  th, td{
-    border:none;
-  }
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -93,6 +85,11 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
+  border: none;
+
+  th, td{
+    border:none;
+  }
 }
 
 th, td {
