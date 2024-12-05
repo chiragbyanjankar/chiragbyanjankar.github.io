@@ -62,6 +62,14 @@ a:hover small {
   margin:0 auto;
 }
 
+table{
+  border: none;
+
+  th, td{
+    border:none;
+  }
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
