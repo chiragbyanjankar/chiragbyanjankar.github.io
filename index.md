@@ -8,17 +8,17 @@ I am a graduate in masters in mechanical and energy engineering from University 
 During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="https://engineering.unt.edu/people/herman-shen.html"> Dr. Herman Shen</a> for AI based in-situ process monitoring and quality control for additive manufacturing. 
 </div>
 <br>
- <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+ <table style="width:100%;max-width:800px;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
-      	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      	<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Lead Author Publications</h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -62,14 +62,14 @@ using regenerable ionic liquid desiccant.</h3>
               <a href=" https://hdl.handle.net/2346/94771">Paper</a>            
             </td>
           </tr> 
-       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+       <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Other Publications</h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/assets/img/Picture3.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -87,14 +87,14 @@ using regenerable ionic liquid desiccant.</h3>
         </table>
         <br>
         <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Education</h2>
             </td>
           </tr>
         </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">    
+        <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">    
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:60px">
               <img src="/assets/img/unt-logo.png" alt="unt logo" style="width:auto; height:auto; max-width:70%;" />
