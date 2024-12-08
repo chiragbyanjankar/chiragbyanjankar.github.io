@@ -97,7 +97,6 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">University of North Texas</h3> <h3 style="font-weight: normal;">Texas, USA</h3>
-              <br>
               M.S in Mechanical and Energy Engineering, Aug 2022 - Dec 2024
               <!-- <br>
                -->
@@ -109,7 +108,6 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">Kathmandu University</h3> <h3 style="font-weight: normal;">Kavre, Nepal</h3>
-              <br>
               B.S. in Mechanical and Energy Engineering, Aug 2016 - Dec 2020
             </td>
           </tr>
