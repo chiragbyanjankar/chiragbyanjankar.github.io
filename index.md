@@ -97,7 +97,7 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">University of North Texas</h3> <h3 style="font-weight: normal;">Texas, USA</h3>
-              M.S in Mechanical and Energy Engineering, Aug 2022 - Dec 2024
+              M.S. in Mechanical and Energy Engineering, Aug 2022 - Dec 2024
               <!-- <br>
                -->
             </td>
