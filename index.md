@@ -25,7 +25,6 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Design, Development, and Initial Testing of Microgravity Vortex Phase Separator-Based Spacecraft Cabin Air Humidity Control Subsystem for CO2 Removal System</h3>
-              <br>
               <strong>Byanjankar, C.*</strong>, Bostanci, H., Kurwitz, C., Belancik, G.
               <br>
               <em>ICES 2024</em>
@@ -33,14 +32,13 @@ During the Summer 2023, I was fortunate to work in AI lab at UNT with <a href="h
               <a href="https://hdl.handle.net/2346/99015">Paper</a>
             </td>
 	  </tr>
-		<tr>
+	<tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/assets/img/Picture1.jpg" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Vortex Phase Separator-based spacecraft cabin air humidity control subsystem prototype for CO2 removal
 using regenerable ionic liquid desiccant.</h3>
-              <br>
               <strong>Byanjankar, C.*</strong>, Bostanci, H., Kurwitz, C., Belancik, G.
               <br>
               <em>M.S. Thesis 2024</em>
@@ -54,7 +52,6 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Preliminary Investigation of Vortex Phase Separator-Based Spacecraft Cabin Air Dehumidification Subsystem for CO2 Removal</h3>
-              <br>
               <strong>Byanjankar, C.*</strong>, Sarvadi, A.*, Bostanci, H., Kurwitz, C., Belancik, G.
               <br>
               <em>ICES 2023</em>
@@ -76,8 +73,7 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>Regenerable Liquid Desiccants for High Efficiency Humidity Control in Microgravity</h3>
-              <br>
-              Gerardo Castro, Laura Barbe, Martin Vu, Jeffery Asencio, Joshua Joblin, <strong>Chirag Byanjankar</strong>, Alex Sarvadi, Huseyin Bostanci, Cable Kurwitz
+              Castro, C., Barbe, L., Vu, M., Asencio, A., Joblin, J., <strong>Byanjankar, C.</strong>, Sarvadi, A., Bostanci, H., Kurwitz, C.
               <br>
               <em>X-Hab 2023</em>
               <br>
@@ -102,7 +98,6 @@ using regenerable ionic liquid desiccant.</h3>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">University of North Texas</h3> <h3 style="font-weight: normal;">Texas, USA</h3>
               <br>
-              <br>
               M.S in Mechanical and Energy Engineering, Aug 2022 - Dec 2024
               <!-- <br>
                -->
@@ -114,7 +109,6 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">Kathmandu University</h3> <h3 style="font-weight: normal;">Kavre, Nepal</h3>
-              <br>
               <br>
               B.S. in Mechanical and Energy Engineering, Aug 2016 - Dec 2020
             </td>
