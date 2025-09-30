@@ -43,7 +43,7 @@ using regenerable ionic liquid desiccant.</h3>
               <br>
               <em>M.S. Thesis 2024</em>
               <br>              
-              <a href=" https://hdl.handle.net/2346/94771">Paper</a>              
+              <a href="https://digital.library.unt.edu/ark:/67531/metadc2415914/">Paper</a>              
             </td>
           </tr> 
           <tr>
