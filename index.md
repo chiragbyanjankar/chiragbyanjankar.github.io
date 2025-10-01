@@ -5,7 +5,7 @@ layout: default
 <div align="justify">
 I am a graduate in masters in mechanical and energy engineering from University of North Texas with focus on using Vapor Phase Separator (VPS) for CO2 removal in spacecraft in deep space transit. I have worked as a Research Assistant in <a href="https://engineering.unt.edu/me/research/labs/tml/index.html">Thermal Management Lab</a> under the supervision of <a href="https://engineering.unt.edu/people/huseyin-bostanci.html">Dr. Huseyin Bostanci </a>. My research interest includes using computer vision and machine learning algorithm to be used in pragmatic approach, image/ video segmentation for large datasets. 
 <br>
-During the Summer 2023, I was fortunate to work in AI lab at UNT with Dr. Herman Shen</a> for AI based in-situ process monitoring and quality control for additive manufacturing. 
+During the Summer 2023, I was fortunate to work in AI lab at UNT with Dr. Herman Shen for AI based in-situ process monitoring and quality control for additive manufacturing. 
 </div>
 <br>
  <table style="width:100%;max-width:800px;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
