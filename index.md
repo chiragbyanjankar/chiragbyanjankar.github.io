@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div align="justify">
-I am a graduate in masters in mechanical and energy engineering from University of North Texas with focus on using Vapor Phase Separator (VPS) for CO2 removal in spacecraft in deep space transit. I have worked as a Research Assistant in <a href="https://engineering.unt.edu/me/research/labs/tml/index.html">Thermal Management Lab</a> under the supervision of <a href="https://engineering.unt.edu/people/huseyin-bostanci.html">Dr. Huseyin Bostanci </a>. My research interest includes using computer vision and machine learning algorithm to be used in pragmatic approach, image/ video segmentation for large datasets. 
+I am a PhD student in mechanical and energy engineering from University of North Texas with specializing in thermal management, spacecrafy environment control systems, and AI enhanced additive manufacturing. I have worked as a Research Assistant in <a href="https://engineering.unt.edu/me/research/labs/tml/index.html">Thermal Management Lab</a> under the supervision of <a href="https://engineering.unt.edu/people/huseyin-bostanci.html">Dr. Huseyin Bostanci </a>. My research interest includes using computer vision and machine learning algorithm to be used in pragmatic approach, image/ video segmentation for large datasets. My research focuses on innovative spacecraft environmental control systems, particularly vortex-based humidity separation technologies for deep space missions. I bring a unique blend of theoretical knowledge, hands-on experimental expertise, and industry experience from my background in commercial HVAC and building systems.
 <br>
-During the Summer 2023, I was fortunate to work in AI lab at UNT with Dr. Herman Shen for AI based in-situ process monitoring and quality control for additive manufacturing. 
+During the Summer 2023, I worked in AI lab at UNT with Dr. Herman Shen for AI based in-situ process monitoring and quality control for additive manufacturing. 
 </div>
 <br>
  <table style="width:100%;max-width:800px;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -97,9 +97,8 @@ using regenerable ionic liquid desiccant.</h3>
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3 style="margin-right: 5px;">University of North Texas</h3> <h3 style="font-weight: normal;">Texas, USA</h3>
-              M.S. in Mechanical and Energy Engineering, Aug 2022 - Dec 2024
-              <!-- <br>
-               -->
+              Pd.D. in Mechanical and Energy Engineering, Aug 2025 - Current
+              <!-- <br>-->
             </td>
           </tr>  
           <tr>
