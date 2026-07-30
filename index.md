@@ -21,7 +21,7 @@ During the Summer 2023, I worked in AI lab at UNT with Dr. Herman Shen for AI ba
         <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 			<tr>
 	            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-	              <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+	              <img src="/assets/img/Picture1.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
 	            </td>
 	            <td style="padding:2.5%;width:75%;vertical-align:middle">
 	              <h3>Evaluation of Vortex Phase Separator-Based Spacecraft Cabin Air Humidity Control Subsystem Prototype for CO2 Removal using Regenerable Ionic Liquid Desiccant</h3>
@@ -34,7 +34,7 @@ During the Summer 2023, I worked in AI lab at UNT with Dr. Herman Shen for AI ba
 			</tr>
 			<tr>
 	            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-	              <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+	              <img src="/assets/img/Picutre2.png" alt="project image" style="width:auto; height:auto; max-width:100%;" />
 	            </td>
 	            <td style="padding:2.5%;width:75%;vertical-align:middle">
 	              <h3>Evaluation of Ionic Liquid [EMIM][EtSO4] for Humidity Control in Spacecraft CO2 Removal Systems: Absorption and Desorption Performance</h3>
