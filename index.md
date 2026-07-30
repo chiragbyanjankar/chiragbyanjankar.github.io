@@ -19,7 +19,33 @@ During the Summer 2023, I worked in AI lab at UNT with Dr. Herman Shen for AI ba
           </tr>
         </table>
         <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
+			<tr>
+	            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+	              <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+	            </td>
+	            <td style="padding:2.5%;width:75%;vertical-align:middle">
+	              <h3>Evaluation of Vortex Phase Separator-Based Spacecraft Cabin Air Humidity Control Subsystem Prototype for CO2 Removal using Regenerable Ionic Liquid Desiccant</h3>
+	              <strong>Byanjankar, C.*</strong>, Bostanci, H., Kurwitz, C., Belancik, G.
+	              <br>
+	              <em>ICES 2026</em>
+	              <br>  
+	              <a href="https://ttu-ir.tdl.org/items/4b2bab8e-da9f-4082-b896-747903b78a8b">Paper</a>
+	            </td>
+			</tr>
+			<tr>
+	            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+	              <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+	            </td>
+	            <td style="padding:2.5%;width:75%;vertical-align:middle">
+	              <h3>Evaluation of Ionic Liquid [EMIM][EtSO4] for Humidity Control in Spacecraft CO2 Removal Systems: Absorption and Desorption Performance</h3>
+	              <strong>Byanjankar, C.*</strong>, Haverland, T., Bostanci, H., Kurwitz, C., Belancik, G.
+	              <br>
+	              <em>ICES 2026</em>
+	              <br>  
+	              <a href="https://ttu-ir.tdl.org/items/06db770e-4c6b-4801-a9c3-97fc7ec26990">Paper</a>
+	            </td>
+			</tr>
+			<tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/assets/img/regen-IL.gif" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
